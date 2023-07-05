@@ -4,27 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4c176b7-d99f-4a83-8bc0-8b9e4017264a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/easy_tabs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy_tabs.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/easy_tabs.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/easy_tabs/engine.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/easy_tabs/railtie.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/easy_tabs/tabs_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/easy_tabs/version.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sig/easy_tabs.rbs" afterDir="false" />
+    <list default="true" id="e4c176b7-d99f-4a83-8bc0-8b9e4017264a" name="Changes" comment="initial build out">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy_tabs.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/easy_tabs.gemspec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +33,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TODO_SCOPE": "All Places",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -74,8 +57,17 @@
       <option name="presentableId" value="Default" />
       <updated>1684084175871</updated>
       <workItem from="1684084176956" duration="306000" />
-      <workItem from="1688503082714" duration="3985000" />
+      <workItem from="1688503082714" duration="4063000" />
+      <workItem from="1688516788291" duration="12000" />
     </task>
+    <task id="LOCAL-00001" summary="initial build out">
+      <created>1688516665092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688516665092</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial build out" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial build out" />
   </component>
 </project>

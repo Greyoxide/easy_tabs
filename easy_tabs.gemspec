@@ -3,7 +3,7 @@
 require_relative "lib/easy_tabs/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "Easy Tabs"
+  spec.name = "easy_tabs"
   spec.version = EasyTabs::VERSION
   spec.authors = ["Greyoxide"]
   spec.email = ["greyoxide@gmail.com"]
