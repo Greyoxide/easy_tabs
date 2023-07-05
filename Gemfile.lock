@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    easy_tabs (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    nokogiri (1.14.4-arm64-darwin)
+      racc (~> 1.4)
+    racc (1.6.2)
+    rake (13.0.6)
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
+  easy_tabs!
+  nokogiri (~> 1.14)
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.3.21
